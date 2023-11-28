@@ -8,6 +8,7 @@ COMPLETION_MODEL = "text-davinci-003"
 
 # 1.要求gpt写几个亚马逊上可读的标题
 # 2.写5个卖点
+# 3。评估一个在美国合适的售卖价格区间
 prompt = """
 Consideration product : 工厂现货PVC充气青蛙夜市地摊热卖充气玩具发光蛙儿童水上玩具
 
